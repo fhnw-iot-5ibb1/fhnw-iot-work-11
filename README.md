@@ -3,7 +3,7 @@
 For slides and example code, see [lesson 11](../../../fhnw-iot/blob/master/11/README.md)
 
 > *Note: Do not work on this repository right away.*<br/>
-> *[Check existing forks to find the specific repository for your class.](../../network/members)*
+> *[Create your personal copy by clicking this GitHub Classroom link](https://classroom.github.com/a/BeVAfsDk).*
 
 ### a) Hello World Alexa skill, 15'
 * Build and deploy the [Hello World Alexa skill tutorial](https://github.com/alexa/skill-sample-nodejs-hello-world/blob/master/instructions/setup-vui-alexa-hosted.md).
